@@ -1,36 +1,51 @@
 # Rami Loiferman
-Email: ramiloif@gmail.com<br/>
-CellPhone: 0502517320<br/>
-GitHub: <https://github.com/ramiloif><br/>
-Stack Overflow: <https://stackoverflow.com/users/4489305/rami-loiferman><br/>
+
+email: ramiloif@gmail.com  
+Phone: 050-251-7320  
+GitHub: <https://github.com/ramiloif>  
+Stack Overflow: <https://stackoverflow.com/users/4489305/rami-loiferman>
 
 ## Personal Profile
-  Highly motivated self learning, willing to explore and learn new languages and frameworks.
+
+Highly motivated, self-learning, willing to explore and learn new languages and frameworks.
 
 ## Experience
-### April 2015 - January 2019: Programmer in Israeli Air Force, Ofek unit Project Galaxy <br/>
-  - Leading development of an automated testing platform from scratch,<br/> for legacy software Using Node and Java. Which shorten the time of running tests significantly.
-  - JavaBuild tools, gradle, ant, ivy
-  - CI/CD: Jenkins Pipelines<br>
-### Freelancer:
-  - Android development: developing personal application and teaching students android development.
-  - React : developing personal applications.
+
+### April 2015 - January 2019: Programmer in Israeli Air Force, Ofek unit, project Galaxy
+
+- Led the development of an automated testing platform from scratch for legacy software, using Node and Java, which significantly shortened the runtime of tests.  
+  Java build tools: Gradle, Ant, Ivy  
+  CI/CD: Jenkins pipelines
+  
+### Freelancer
+
+- Android: developed personal application and taught students Android development
+- React: developed personal applications
+
 ## Education
-2014 - IDF BSM"H, computer and cyber defense academic subjects
+
+- 2014 - Graduated IDF BSM"H, computer and cyber defense academic subjects
 
 ## Honors
+
 - 2016 Unit excellence award.
-- 2018 Israeli Air Force Generals excellence award for professional achievements.
+- 2018 Israeli Air Force General's excellence award for professional achievements.
 
 ## Technological Skills
-Programming languages: JavaScript(node, and frontend), Java.
-Frameworks/Platforms: nodejs, React/Redux, Android (java)
-A little: Spring (java), Express.js
-Skills and knowledge: CI/CD: Jenkins/circleci, Heroku
+
+Programming languages: JavaScript (node and frontend), Java  
+Frameworks and platforms: node.js, React/Redux, Android (java)  
+Limited experience: Spring (java), Express.js  
+Skills and knowledge: CI/CD (Jenkins / CircleCI), Heroku
+
 Tools:
-Development tools: git, AndroidStudio, IntelliJ IDEA, Visual Studio Code Eclipse.</br>
-Build tools: npm, yarn, webpack, babel, eslint, prettier.
-Test tools: mocha, jest
+
+- Development tools: git, Android Studio, IntelliJ IDEA, Visual Studio Code, Eclipse
+- Build tools: npm, yarn, webpack, babel, eslint, prettier
+- Test tools: mocha, jest
 
 ## Languages
-English: Fluent, Hebrew: Fluent, Russian: Conversational level.
+
+English: Fluent  
+Hebrew: Fluent  
+Russian: Conversational level
