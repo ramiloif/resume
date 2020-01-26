@@ -18,8 +18,6 @@ Highly motivated, self-learning, willing to explore and learn new languages and 
 - Developed a code generation tool using node js .
 - Led Migration to Jenkins pipelines including writing parallel pipeline using multiple computers,
   and writing a jenkins library.
-  Java build tools: Gradle, Ant, Ivy
-  CI/CD: Jenkins pipelines
   
 ### Freelancer
 
