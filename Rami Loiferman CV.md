@@ -13,8 +13,12 @@ Highly motivated, self-learning, willing to explore and learn new languages and 
 
 ### April 2015 - January 2019: Programmer in Israeli Air Force, Ofek unit, project Galaxy
 
-- Led the development of an automated testing platform from scratch for legacy software, using Node and Java, which significantly shortened the runtime of tests.  
-  Java build tools: Gradle, Ant, Ivy  
+- Led the development of an automated testing platform from scratch for legacy software, using Node and Java, which significantly shortened the runtime of tests.(from weeks to a couple of hours)
+- Led migration of a big project from ant & ivy java build system to gradle.
+- Developed a code generation tool using node js .
+- Led Migration to Jenkins pipelines including writing parallel pipeline using multiple computers,
+  and writing a jenkins library.
+  Java build tools: Gradle, Ant, Ivy
   CI/CD: Jenkins pipelines
   
 ### Freelancer
