@@ -4,23 +4,22 @@ email: ramiloif@gmail.com
 Phone: 050-251-7320  
 GitHub: <https://github.com/ramiloif>  
 Stack Overflow: <https://stackoverflow.com/users/4489305/rami-loiferman>
-
+Google Play Develope Page: <https://play.google.com/store/apps/developer?id=pineapple.pen.il>
 ## Personal Profile
 
 Highly motivated, self-learning, willing to explore and learn new languages and frameworks.
 
 ## Experience
 
-### April 2015 - January 2019: Programmer in Israeli Air Force, Ofek unit, project Galaxy
+### April 2015 - January 2019: Programmer in Israeli Air Force, Ofek unit, Galaxy project
 
-- Led the development of an automated testing platform from scratch for legacy software, using Node and Java, which significantly shortened the runtime of tests.(from weeks to a couple of hours)
+- Led the development of a multi-system project which replaced an outdated software by a more efficient and innovative project
 - Led migration of a big project from ant & ivy java build system to gradle.
 - Developed a code generation tool using node js .
 - Led Migration to Jenkins pipelines including writing parallel pipeline using multiple computers,
   and writing a jenkins library.
   
-### Freelancer
-
+### Self Projects
 - Android: developed personal application and taught students Android development
 - React: developed personal applications
 
@@ -35,11 +34,10 @@ Highly motivated, self-learning, willing to explore and learn new languages and 
 
 ## Technological Skills
 
-Programming languages: JavaScript (node and frontend), Java  
-Frameworks and platforms: node.js, React/Redux, Android (java)  
-Limited experience: Spring (java), Express.js  
+Programming languages: JavaScript, TypeScript, Java  
+Frameworks and platforms: node.js, Spring (java), React/Redux, Android (Native)  
 Skills and knowledge: CI/CD (Jenkins / CircleCI), Heroku
-
+<br/> <br/> <br/><br/>
 Tools:
 
 - Development tools: git, Android Studio, IntelliJ IDEA, Visual Studio Code, Eclipse
