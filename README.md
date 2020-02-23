@@ -11,11 +11,13 @@ Highly motivated, self-learning, willing to explore and learn new languages and 
 
 ## Experience
 
-### April 2015 - January 2019: Programmer in Israeli Air Force, Ofek unit, Galaxy project
+### 2015 - 2019: Full Stack Software Developer - Ofek Unit, Israeli Air Force
 
-- Led the development of a multi-system project which replaced an outdated software by a more efficient and innovative project
-- Led migration of a big project from ant & ivy java build system to gradle.
-- Developed a code generation tool using node js .
+- Designed and implemented a java-code generation tool using node js
+- Led the development of an automated testing platform from scratch for the IAF's operational system, developed in Java and Nodejs,
+which significantly improved the release process(from weeks to a couple of hours).
+- Led migration of a big project from ant & ivy java build system to gradle
+- Solving coding issues, software design, debugging, collaborated with user experience designers, QA, system teams and end-customers.
 - Led Migration to Jenkins pipelines including writing parallel pipeline using multiple computers,
   and writing a jenkins library.
   
