@@ -31,8 +31,8 @@ which significantly improved the release process(from weeks to a couple of hours
 
 ## Honors
 
-- 2016 Unit excellence award.
 - 2018 Israeli Air Force General's excellence award for professional achievements.
+- 2016 Unit excellence award.
 
 ## Technological Skills
 
